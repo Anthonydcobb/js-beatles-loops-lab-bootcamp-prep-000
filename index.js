@@ -30,6 +30,7 @@ var johnLennonFacts = (array) => {
 var iLoveTheBeatles = (num) => {
   var newArray = []
   do {
-    newArray.push("I Love The Beatles")
-  }
+    newArray.push("I Love the Beatles");
+  } while (num <)
+
 }
