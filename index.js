@@ -25,3 +25,11 @@ var johnLennonFacts = (array) => {
   }
   return array
 }
+
+
+var iLoveTheBeatles = (num) => {
+  var newArray = []
+  do {
+    newArray.push("I Love The Beatles")
+  }
+}
