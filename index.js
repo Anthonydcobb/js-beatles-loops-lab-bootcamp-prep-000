@@ -4,7 +4,7 @@ var instrument = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
 
 
 var theBeatlesPlay = (musicianArr, instrumentArr) => {
-    for (var i = 0; i <= musicianArr.length - 1; i++) {
+    for (var i = 0; i <= musicianArr.length; i++) {
       var beatlesArray = [];
       beatlesArray.push(`${musicianArr[i]} plays ${instrumentArr[i]}`)
     }
