@@ -31,6 +31,7 @@ var iLoveTheBeatles = (num) => {
   var newArray = []
   do {
     newArray.push("I Love the Beatles");
-    num++;s
+    num = num + 1;
   } while (num < 15);
+  return newArray;
 }
